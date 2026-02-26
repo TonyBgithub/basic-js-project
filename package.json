@@ -1,0 +1,12 @@
+{
+  "name": "basic-js-project",
+  "version": "1.0.0",
+  "description": "A basic JavaScript hello world project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["hello-world", "javascript"],
+  "author": "",
+  "license": "ISC"
+}
