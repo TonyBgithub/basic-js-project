@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session-config>
+ <cookie-config> <!-- Sensitive: http-only tag is missing defaulting to false -->
+ </cookie-config>
+</session-config>
